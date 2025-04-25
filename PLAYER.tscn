@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://bvvysv7juceun"]
+
+[ext_resource type="Texture2D" uid="uid://c5i1yb35fs3a8" path="res://PLAYER/playerShip_blue.png" id="1_5qx4t"]
+[ext_resource type="Script" uid="uid://cim2po1febc74" path="res://player.gd" id="1_x3g1t"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_x3g1t"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_5qx4t")
+}],
+"loop": true,
+"name": &"move",
+"speed": 5.0
+}]
+
+[node name="PLAYER" type="Area2D"]
+script = ExtResource("1_x3g1t")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(333, 272)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_x3g1t")
+animation = &"move"
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+visible = false
+polygon = PackedVector2Array(329, 254, 337, 254, 339, 267, 351, 272, 355, 269, 358, 269, 356, 284, 354, 282, 340, 286, 338, 291, 330, 291, 326, 286, 313, 283, 312, 284, 310, 284, 308, 270, 309, 269, 311, 269, 315, 273, 327, 266)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
