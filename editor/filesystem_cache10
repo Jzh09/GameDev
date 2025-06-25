@@ -1,0 +1,39 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750876498
+icon.svg::CompressedTexture2D/CompressedTexture2D::7941719643622025251::1750875909::1750875921::1::::<><><>0<>0<>b9f877b0956509eac0cf581cd3b8e623<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1750876041
+Space_BG1.png::CompressedTexture2D/CompressedTexture2D::7654781849118914660::1750876041::1750876041::1::::<><><>0<>0<>ecb1ed5b0ebf4343042c76e2cbbb9b8b<>res://.godot/imported/Space_BG1.png-ebdcf7c3e2a0200f2808a29e9acbef5e.ctex::
+Space_BG (2 frames) (64 x 64).png::CompressedTexture2D/CompressedTexture2D::8604262540735311912::1750875909::1750875921::1::::<><><>0<>0<>d0fad4b6cab08bc4ee6002c37295ea92<>res://.godot/imported/Space_BG (2 frames) (64 x 64).png-dc07f4b4c0fecb280cf1666acf6b47e2.ctex::
+::res://assets/effects/::1750875921
+Explosion (16 x 16).png::CompressedTexture2D/CompressedTexture2D::1568278001450896538::1750875909::1750875921::1::::<><><>0<>0<>12036f7dff7caac40eda4fedfbaee914<>res://.godot/imported/Explosion (16 x 16).png-08cdd93a843d2fad18c236dbefb2c92e.ctex::
+::res://assets/enemey/::1750875921
+Bon_Bon (16 x 16).png::CompressedTexture2D/CompressedTexture2D::8991837194783513562::1750875909::1750875921::1::::<><><>0<>0<>928a58352a229e9779f32740d1de2bb3<>res://.godot/imported/Bon_Bon (16 x 16).png-e68d4c42aa2ba026f5c36f0a90e1de40.ctex::
+Enemy_projectile (16 x 16).png::CompressedTexture2D/CompressedTexture2D::6239368289398203647::1750875909::1750875921::1::::<><><>0<>0<>82ff86bdf2863c66fe33527101940790<>res://.godot/imported/Enemy_projectile (16 x 16).png-74406da566d2f3e922d826123676e678.ctex::
+::res://assets/player/::1750876414
+playerShip1_blue.png::CompressedTexture2D/CompressedTexture2D::2922914315327010939::1750876093::1750876094::1::::<><><>0<>0<>32507d3b517e228dbe9e48eddb90d5c4<>res://.godot/imported/playerShip1_blue.png-cc694c40f3d0d0d63d9a8b75fb08132d.ctex::
+Player_charged_beam (16 x 16).png::CompressedTexture2D/CompressedTexture2D::6141248167945369013::1750875909::1750875921::1::::<><><>0<>0<>8b0f3ce20dd33ef4dd1b5dca16d636d7<>res://.godot/imported/Player_charged_beam (16 x 16).png-865216854771d505dc44513d5031d236.ctex::
+::res://assets/ui/::1750876037
+bar_background.png::CompressedTexture2D/CompressedTexture2D::4572344617255481467::1750875909::1750875921::1::::<><><>0<>0<>0f11540e1fe6f8ba71a861b7a66a4e01<>res://.godot/imported/bar_background.png-1ac65e666abaa2a653097f018a77d8d7.ctex::
+bar_foreground.png::CompressedTexture2D/CompressedTexture2D::9181426190221487628::1750875909::1750875921::1::::<><><>0<>0<>41c1077b62b299413a7e92c934c970fa<>res://.godot/imported/bar_foreground.png-ba2c8fa9d6de58dcb95fb5f5d5512a6b.ctex::
+GAME_OVER (72 x 8).png::CompressedTexture2D/CompressedTexture2D::8704305936966135633::1750875909::1750875921::1::::<><><>0<>0<>b54b00e2bdf740d4d631ade48e9149c9<>res://.godot/imported/GAME_OVER (72 x 8).png-1bf66ebdec3ec8ea7fec50533a152294.ctex::
+Number_font (8 x 8).png::CompressedTexture2D/CompressedTexture2D::6140663547808490865::1750875909::1750875921::1::::<><><>0<>0<>8e924f865eb68de04564b8211fed5edd<>res://.godot/imported/Number_font (8 x 8).png-6ca3a7aab045c47a69fde7d0c1ea8a97.ctex::
+Space_BG1.png::CompressedTexture2D/CompressedTexture2D::8133229727579118073::1750876036::1750876037::1::::<><><>0<>0<>20ea5d0e04857c67ff62d6893a0f5bf7<>res://.godot/imported/Space_BG1.png-74b50dd8afc7bd99f92792932594c23e.ctex::
+START (48 x 8).png::CompressedTexture2D/CompressedTexture2D::9161969484486293394::1750875909::1750875921::1::::<><><>0<>0<>cd1c904ff8013b40596d3b3a6008849a<>res://.godot/imported/START (48 x 8).png-791f8aa2552cec71ce1e56191216fb47.ctex::
+::res://src/::1750876466
+main.gd::GDScript/GDScript::3643766588715849704::1750875909::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene::3656177159297490323::1750876466::0::1::::<><><>0<>0<><>::uid://br6ckkxcpvql1::::res://src/main.gd<>uid://ntmdnsemdw6d::::res://src/player/player.tscn<>uid://bjahrvt34q30y::::res://src/ui/ui.tscn<>uid://dhcbeykts3do3::::res://assets/Space_BG1.png<>uid://d3sekfpf7dpr3::::res://assets/ui/START (48 x 8).png<>uid://dwaowaakxj770::::res://assets/ui/GAME_OVER (72 x 8).png
+::res://src/enemy/::1750875932
+enemy.gd::GDScript/GDScript::4307068866236951049::1750875909::0::1::::<>Area2D<><>0<>0<><>::
+enemy.tscn::PackedScene::6809657452762520216::1750875932::0::1::::<><><>0<>0<><>::uid://d1dyilcsionwk::::res://assets/enemey/Bon_Bon (16 x 16).png<>uid://b2mm2a77x58t6::::res://src/enemy/enemy.gd<>uid://wlxkr31krrsk::::res://assets/effects/Explosion (16 x 16).png
+enemy_bullet.gd::GDScript/GDScript::8886956293109998365::1750875909::0::1::::<>Area2D<><>0<>0<><>::
+enemy_bullet.tscn::PackedScene::6501485967692916889::1750875932::0::1::::<><><>0<>0<><>::uid://cu5nqpw1c45ux::::res://assets/enemey/Enemy_projectile (16 x 16).png<>uid://dyu54v0e3v8ov::::res://src/enemy/enemy_bullet.gd
+::res://src/player/::1750876466
+bullet.gd::GDScript/GDScript::1313273363154199681::1750875909::0::1::::<>Area2D<><>0<>0<><>::
+bullet.tscn::PackedScene::4288723844065114202::1750875932::0::1::::<><><>0<>0<><>::uid://syfokafyxxcj::::res://src/player/bullet.gd<>uid://ctq4pv36osc4d::::res://assets/player/Player_charged_beam (16 x 16).png
+player.gd::GDScript/GDScript::2452502341245565230::1750875909::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::952412816724422481::1750876466::0::1::::<><><>0<>0<><>::uid://ba7amcwtaatd3::::res://src/player/player.gd<>uid://b2dqwjk5ivmfy::::res://src/player/bullet.tscn<>uid://bhv48bk5gv8i6::::res://assets/player/playerShip1_blue.png
+::res://src/ui/::1750875933
+score.gd::GDScript/GDScript::2152200929733782053::1750875909::0::1::::<>HBoxContainer<><>0<>0<><>::
+score.tscn::PackedScene::1688441543125027841::1750875933::0::1::::<><><>0<>0<><>::uid://5wso1yhn5sq4::::res://src/ui/score.gd
+ui.gd::GDScript/GDScript::3931066619432673049::1750875909::0::1::::<>MarginContainer<><>0<>0<><>::
+ui.tscn::PackedScene::3018576787534385642::1750875933::0::1::::<><><>0<>0<><>::uid://bwaidfm17nmyr::::res://src/ui/ui.gd<>uid://b6e433cwdosrr::::res://assets/ui/bar_background.png<>uid://d32s0ouvrkaam::::res://assets/ui/bar_foreground.png<>uid://yb5ndw51wlyv::::res://src/ui/score.tscn
